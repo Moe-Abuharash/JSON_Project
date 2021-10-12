@@ -42,7 +42,7 @@ data = [{
     }
 }]
 
-my_layout = Layout(title = 'Global Earthquake 9/1/20 - 9/13/20')
+my_layout = Layout(title = 'U.S. Fires 9/1/20 - 9/13/20')
 
 fig = {'data': data, 'layout': my_layout}
 
